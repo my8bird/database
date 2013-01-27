@@ -1,0 +1,26 @@
+{
+  "name": "database",
+  "description": "",
+  "private": true,
+  "author": "Nathan Landis <my8bird@gmail.com>",
+  "version": "0.0.1",
+
+  "scripts": {
+  },
+
+  "dependencies": {
+     "optimist": ">= 0.3.5",
+     "underscore": ">= 1.4.0",
+     "node-ini": ">= 1.0.0"
+  },
+
+  "devDependencies": {
+     "grunt": ">= 0.4",
+     "grunt-cli": "",
+
+     "grunt-contrib": ""
+  },
+
+  "engine": "node >= 0.8.17"
+}
+
